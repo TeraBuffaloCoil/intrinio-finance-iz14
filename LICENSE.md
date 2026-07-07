@@ -1,4 +1,4 @@
-# 
+# Intrinio provides financial data APIs and tools for developers to build custom financial applications.
 
 
 
